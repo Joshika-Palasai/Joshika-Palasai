@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Joshika-Palasai
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on data science 
+Hi there 👋, I'm Joshika
+Final-Year CSE Student | AI & Data Science Enthusiast | Web Developer
 
-<!---
-Joshika-Palasai/Joshika-Palasai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about building AI-driven solutions and full-stack applications that solve real-world problems.
+💡 Currently working on projects in Machine Learning, Deep Learning, and Web Development.
+📚 Learning and growing my skills to become a Data Scientist with impactful industry contributions.
